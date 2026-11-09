@@ -31,7 +31,7 @@ Perth-based startup developing a wellbeing app for workers to help with their me
 - Tyrone Feldman • [LinkedIn](https://au.linkedin.com/in/tyronefeldman)
 
 *Lead dev:*
-- Matt Scullino • [Website](https://mattscullino.com/)
+- Matt Scullino • [Website](https://mattscullino.com/) | [GitHub](https://github.com/sculli-net)
 
 
 App currently in development as of November 2026 alongside clinical and psychosocial safety reviews.\
